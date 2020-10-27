@@ -1,0 +1,17 @@
+C:\Users\seid_\source\repos\Testability\Testability.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\seid_\source\repos\Testability\Testability.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\seid_\source\repos\Testability\Testability.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\seid_\source\repos\Testability\Testability.UnitTest\bin\Debug\Testability.UnitTest.dll
+C:\Users\seid_\source\repos\Testability\Testability.UnitTest\bin\Debug\Testability.UnitTest.pdb
+C:\Users\seid_\source\repos\Testability\Testability.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\seid_\source\repos\Testability\Testability.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\seid_\source\repos\Testability\Testability.UnitTest\bin\Debug\Testability.exe
+C:\Users\seid_\source\repos\Testability\Testability.UnitTest\bin\Debug\Testability.pdb
+C:\Users\seid_\source\repos\Testability\Testability.UnitTest\bin\Debug\Testability.exe.config
+C:\Users\seid_\source\repos\Testability\Testability.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\seid_\source\repos\Testability\Testability.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\seid_\source\repos\Testability\Testability.UnitTest\obj\Debug\Testability.UnitTest.csprojAssemblyReference.cache
+C:\Users\seid_\source\repos\Testability\Testability.UnitTest\obj\Debug\Testability.UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\seid_\source\repos\Testability\Testability.UnitTest\obj\Debug\Testability.UnitTest.csproj.CopyComplete
+C:\Users\seid_\source\repos\Testability\Testability.UnitTest\obj\Debug\Testability.UnitTest.dll
+C:\Users\seid_\source\repos\Testability\Testability.UnitTest\obj\Debug\Testability.UnitTest.pdb

@@ -1,0 +1,7 @@
+C:\Users\seid_\source\repos\Testability\Testability\bin\Debug\Testability.exe.config
+C:\Users\seid_\source\repos\Testability\Testability\bin\Debug\Testability.exe
+C:\Users\seid_\source\repos\Testability\Testability\bin\Debug\Testability.pdb
+C:\Users\seid_\source\repos\Testability\Testability\obj\Debug\Testability.csprojAssemblyReference.cache
+C:\Users\seid_\source\repos\Testability\Testability\obj\Debug\Testability.csproj.CoreCompileInputs.cache
+C:\Users\seid_\source\repos\Testability\Testability\obj\Debug\Testability.exe
+C:\Users\seid_\source\repos\Testability\Testability\obj\Debug\Testability.pdb
